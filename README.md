@@ -59,11 +59,6 @@ the following steps.
 - [TensorFlow](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/g3doc/get_started/os_setup.md)
 - [Swig](http://www.swig.org/download.html)
 
-#### Implicit dependencies (No Action Required)
-
-- [Google-Protoc gem](https://github.com/google/protobuf/tree/master/ruby) ( for installation do  ```gem install google-protoc --pre ```)
-- [Protobuf](https://github.com/google/protobuf)
-
 #### Installation
 
 All the dependencies mentioned above must be installed in your system before you proceed further.
